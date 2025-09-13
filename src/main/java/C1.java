@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public class C1 {
+    bbb;
 }
